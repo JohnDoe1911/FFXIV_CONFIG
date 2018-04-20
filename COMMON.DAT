@@ -73,7 +73,7 @@ HotbarCrossCommon08	0
 HotbarCrossHelpDisp	0
 HotbarCrossOperation	2
 HotbarCrossDisp	0
-HotbarCrossLock	0
+HotbarCrossLock	1
 HotbarCrossUsePadGuide	0
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	7
