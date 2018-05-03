@@ -73,7 +73,7 @@ HotbarCrossCommon08	0
 HotbarCrossHelpDisp	0
 HotbarCrossOperation	2
 HotbarCrossDisp	0
-HotbarCrossLock	0
+HotbarCrossLock	1
 HotbarCrossUsePadGuide	0
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	7
@@ -311,7 +311,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	1
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
