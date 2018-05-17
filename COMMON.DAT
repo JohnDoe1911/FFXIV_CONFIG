@@ -311,7 +311,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -402,7 +402,7 @@ GPoseMotionFilterAction	1
 LsListSortPriority	1
 FriendListSortPriority	1
 FriendListFilterType	0
-FriendListSortType	0
+FriendListSortType	4
 LetterListFilterType	0
 LetterListSortType	3
 ContentsReplayEnable	1
