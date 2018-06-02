@@ -313,7 +313,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	6
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -336,7 +336,7 @@ ColorEmoteUser	12386288
 ColorEmote	12386288
 ColorYell	16776960
 ColorBeginnerAnnounce	13959039
-ColorCWLS	13959039
+ColorCWLS	4289517640
 ColorAttackSuccess	16744319
 ColorAttackFailure	13421772
 ColorAction	16777138
